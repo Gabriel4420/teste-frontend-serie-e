@@ -23,7 +23,7 @@ export default function App() {
       <Flex
         direction="column"
         justifyContent="space-between"
-        mt={isLargerThan612 ? "0" : "-200px"}
+        mt={isLargerThan612 ? "0" : "-100px"}
       >
         <SectionProducts py="0" mt="-300px" />
         <SectionProducts py="0" mt="-80px" />
