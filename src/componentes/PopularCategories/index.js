@@ -6,7 +6,8 @@ const PopularCategories = () => {
     <Flex
       alignItems="center"
       justifyContent="center"
-      mt={isLargerThan612 ? "-100" : "0"}
+      mt={isLargerThan612 ? "-60" : "0"}
+      mb="-300"
     >
       <Box
         w="500px"
